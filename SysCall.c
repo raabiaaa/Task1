@@ -8,6 +8,5 @@ int main(int argc,char *argv[])
 {
 printf("Thread id %ld \n",syscall(SYS_gettid));
 printf("i changed syscall file");
-  printf("Tabdeeli");
 return 0;
 }
