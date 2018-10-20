@@ -8,5 +8,6 @@ int main(int argc,char *argv[])
 {
 printf("Thread id %ld \n",syscall(SYS_gettid));
 printf("i changed syscall file");
+printf("Imran Ahmed Niazi ne 176 vote haasil kiye");
 return 0;
 }
